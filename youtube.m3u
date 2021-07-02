@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" tvg-id="", TV9 Telugu
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625231462/ei/BrzeYNqTLpzaigTnlYmACA/ip/23.102.137.23/id/Q6QR4979KIQ.3/source/yt_live_broadcast/requiressl/yes/tx/24034803/txs/24034803%2C24034804%2C24034805/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIge5MR8Ke8UQOWGK34BlQa85_H6O7N6MyCFmONBY4RV5ECIQCBEgFxGcvLVq5-2wIqgWbMGOsS43JbLvo3aLW_k2AhRQ%3D%3D/file/index.m3u8
