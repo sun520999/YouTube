@@ -1,15 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-GNN | Urdu | |
-https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live
-
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
-https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
-
-News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
-
 TV9 Telugu | Telugu | https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316 |
 https://www.youtube.com/watch?v=Q6QR4979KIQ&ab_channel=TV9TeluguLive
 
