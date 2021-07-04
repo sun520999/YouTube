@@ -21,7 +21,7 @@ if 'win' in sys.platform:
     windows = True
 
 def grab(url):
-    response = requests.get(url, timeout=1500).text
+    response = requests.get(url).text
     if '.m3u8' not in response:
         if windows:
             print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
