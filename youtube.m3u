@@ -31,7 +31,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625394264/ei/-
 https://www.youtube.com/c/etvtelangana/live/
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/ETV_Andhra_Pradesh.png" tvg-id="", ETV Andhra Pradesh
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://www.youtube.com/c/ETVLiveNews/live
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjsgaGsmsUgf_p4eaYu1GqAiHOE1WjTlcIy0ZTBDQ=s900-c-k-c0x00ffffff-no-rj" tvg-id="", iNews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625394266/ei/-jfhYJesJJantQek6bMo/ip/23.99.220.111/id/akYs2CS_8mI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMLw4bRmcA9ZFD0zSoOVyoTKdTwmG3FYhtEZ6zffYJcMAiEA4Z1oKS4IyH0ql0HLKL4FLskP2JhuMsWxeQq2Oj4uUj4%3D/file/index.m3u8
