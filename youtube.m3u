@@ -28,7 +28,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625389313/ei/o
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1625389313/ei/oSThYOX_JOiCir4P_82E8A4/ip/40.69.167.185/id/qIY8IeluF9g.2/source/yt_live_broadcast/requiressl/yes/tx/24027679/txs/24027679%2C24027680%2C24027681%2C24027682/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgS2xt2EydcUw_wL3qMnJZv6icn8UQ9vwVbnypGeT-qckCIQCgmkCy2JNvh96QC6Y-43iBCbA9zlRvcgf7NSYdFUV9wA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/JIIK4WzXnAw/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx3mv1Q9WREoL3SEz2i79Bc7QU9A" tvg-id="", ETV Telangana
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/ETV_Andhra_Pradesh.png" tvg-id="", ETV Andhra Pradesh
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
