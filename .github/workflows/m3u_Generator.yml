@@ -41,7 +41,7 @@ jobs:
         run: |
           pwd
           chmod +x autorun.sh
-          ./autorun.bat
+          ./autorun.sh
         
       - name: git add
         run: |
