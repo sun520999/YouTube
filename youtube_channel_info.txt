@@ -1,10 +1,10 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-ETV Telangana | Telugu | https://i.ytimg.com/vi/JIIK4WzXnAw/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx3mv1Q9WREoL3SEz2i79Bc7QU9A |
+ETV Telangana | Telugu | https://i.ytimg.com/vi/JIIK4WzXnAw/maxresdefault.jpg?v=60d1e81e |
 https://www.youtube.com/c/etvtelangana/live
 
-ETV Andhra Pradesh | Telugu | https://i.ytimg.com/vi/kR5vs49ppkI/hq720_live.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1an83QYxdtddwjvyjOl1Nl6_MUQ |
+ETV Andhra Pradesh | Telugu | https://i.ytimg.com/vi/kR5vs49ppkI/maxresdefault.jpg?v=60ad2d47 |
 https://www.youtube.com/watch?v=kR5vs49ppkI
 
 TV9 Telugu | Telugu | https://i.ytimg.com/vi/Q6QR4979KIQ/hq720_live.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWsJcu7fLZg-XpVnYsQ21uJ69RTQ |
