@@ -29,7 +29,7 @@ hmtv | Telugu | https://i.ytimg.com/vi/qIY8IeluF9g/maxresdefault.jpg?v=5fb82c99 
 https://www.youtube.com/watch?v=qIY8IeluF9g&ab_channel=hmtvNews
 
 ETV Telangana | Telugu | https://i.ytimg.com/vi/JIIK4WzXnAw/maxresdefault.jpg?v=60d1e81e |
-https://www.youtube.com/c/etvtelangana/live
+www.youtube.com/c/etvtelangana/live
 
 ETV Andhra Pradesh | Telugu | https://i.ytimg.com/vi/kR5vs49ppkI/maxresdefault.jpg?v=60ad2d47 |
 https://www.youtube.com/watch?v=kR5vs49ppkI&ab_channel=ETVLiveNews
