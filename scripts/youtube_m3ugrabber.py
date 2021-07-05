@@ -31,13 +31,13 @@ def grab(url):
         if '.m3u8' not in response:
             print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
             return
-    end = response.find('.m3u8') + 5
+    end = response.find('index.m3u8') + 5
     tuner = 100
     while True:
         if 'https://' in response[end-tuner : end]:
             link = response[end-tuner : end]
             start = link.find('https://')
-            end = link.find('m3u8') + 5
+            end = link.find('index.m3u8') + 5
             break
         else:
             tuner += 5
