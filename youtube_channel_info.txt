@@ -1,6 +1,12 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+ETV Telangana | Telugu | https://i.ytimg.com/vi/JIIK4WzXnAw/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx3mv1Q9WREoL3SEz2i79Bc7QU9A |
+https://www.youtube.com/c/etvtelangana/live
+
+ETV Andhra Pradesh | Telugu | https://i.ytimg.com/vi/kR5vs49ppkI/hq720_live.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1an83QYxdtddwjvyjOl1Nl6_MUQ |
+https://www.youtube.com/watch?v=kR5vs49ppkI
+
 TV9 Telugu | Telugu | https://i.ytimg.com/vi/Q6QR4979KIQ/hq720_live.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWsJcu7fLZg-XpVnYsQ21uJ69RTQ |
 https://www.youtube.com/watch?v=Q6QR4979KIQ&ab_channel=TV9TeluguLive
 
@@ -27,12 +33,6 @@ https://www.youtube.com/watch?v=IHuHxUo4Yps&ab_channel=10TVNewsTelugu
 
 hmtv | Telugu | https://i.ytimg.com/vi/qIY8IeluF9g/hq720_live.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYZY6JdwM3ddUf9JMRp_2GbbuV-w |
 https://www.youtube.com/watch?v=qIY8IeluF9g&ab_channel=hmtvNews
-
-ETV Telangana | Telugu | https://i.ytimg.com/vi/JIIK4WzXnAw/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx3mv1Q9WREoL3SEz2i79Bc7QU9A |
-https://www.youtube.com/c/etvtelangana/live
-
-ETV Andhra Pradesh | Telugu | https://i.ytimg.com/vi/kR5vs49ppkI/hq720_live.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1an83QYxdtddwjvyjOl1Nl6_MUQ |
-https://www.youtube.com/watch?v=kR5vs49ppkI
 
 iNews | Telugu | https://i.ytimg.com/vi/akYs2CS_8mI/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTxyl-QtTy1duv7HXjRzi9yzcygg |
 https://www.youtube.com/watch?v=akYs2CS_8mI&ab_channel=iNewsLive
