@@ -31,13 +31,13 @@ def grab(url):
         if '.m3u8' not in response:
             print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
             return
-    end = response.find('index.m3u8') + 5
+    end = response.find('.m3u8') + 5
     tuner = 100
     while True:
         if 'https://' in response[end-tuner : end]:
             link = response[end-tuner : end]
             start = link.find('https://')
-            end = link.find('index.m3u8') + 5
+            end = link.find('m3u8') + 5
             break
         else:
             tuner += 5
@@ -45,7 +45,7 @@ def grab(url):
 
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
 #print(banner)
-with open('https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/youtube_channel_info.txt') as f:
+with open('../youtube_channel_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
