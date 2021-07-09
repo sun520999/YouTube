@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 TV9 Telugu | Telugu | https://i.ytimg.com/vi/Q6QR4979KIQ/maxresdefault.jpg?v=5e6e749b |
-https://www.youtube.com/watch?v=Q6QR4979KIQ&ab_channel=TV9TeluguLive
+https://www.youtube.com/watch?v=Q6QR4979KIQ
 
 NTV Telugu | Telugu | https://i.ytimg.com/vi/HUiHKse-YgM/maxresdefault.jpg?v=5fc8e1b5 |
 https://www.youtube.com/watch?v=HUiHKse-YgM&ab_channel=NTVTelugu
