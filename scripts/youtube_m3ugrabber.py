@@ -24,12 +24,12 @@ def grab(url):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/index2.jpg')
+            print('https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            print('https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/index2.jpg')
+            print('https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u')
             return
     end = response.find('.m3u8') + 5
     tuner = 100
