@@ -34,8 +34,8 @@ https://www.youtube.com/c/etvtelangana/live
 ETV Andhra Pradesh | Telugu | https://i.ytimg.com/vi/kR5vs49ppkI/maxresdefault.jpg?v=60ad2d47 |
 https://www.youtube.com/watch?v=kR5vs49ppkI&ab_channel=ETVLiveNews
 
-iNews | Telugu | https://i.ytimg.com/vi/akYs2CS_8mI/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-c0J6q4daA_UZx7f9UurSa4EEDg |
-https://www.youtube.com/watch?v=8_ZHNOlRDGc
+iNews | Telugu | https://i.ytimg.com/vi/akYs2CS_8mI/hqdefault_live.jpg |
+https://m.youtube.com/watch?v=rpL1A-eIXHw
 
 Mahaa News | Telugu | https://i.ytimg.com/vi/vIRyCXcbr6k/maxresdefault.jpg?v=605193d8 |
 https://www.youtube.com/watch?v=vIRyCXcbr6k&ab_channel=MahaaNews
@@ -57,9 +57,6 @@ https://www.youtube.com/c/News1TeluguTV/live
 
 NewsNow Telugu | Telugu  | https://i.ytimg.com/vi/omkpEqoCe1w/hq720_live.jpg  |
 https://www.youtube.com/watch?v=omkpEqoCe1w
-
-Sv5 tv news | Telugu  | https://i.ytimg.com/vi/bGKp0suDLn0/hq720_live.jpg  |
-https://www.youtube.com/watch?v=bGKp0suDLn0
 
 Bhakthi TV | Telugu  | https://i.ytimg.com/vi/d0dB3kSCMmM/maxresdefault.jpg?v=60e30f87  |
 https://www.youtube.com/watch?v=d0dB3kSCMmM
