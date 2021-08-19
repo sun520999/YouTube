@@ -31,7 +31,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1629354265/ei/u
 https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/kR5vs49ppkI/maxresdefault.jpg?v=60ad2d47" tvg-id="", ETV Andhra Pradesh
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
+https://tubelive.jiomvk.workers.dev/?url=https://www.youtube.com/watch?v=Ig3jrZb1lrE
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/akYs2CS_8mI/hqdefault_live.jpg" tvg-id="", iNews
 https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
