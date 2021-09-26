@@ -1,0 +1,15 @@
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://eventos.cancaonova.pt/wp-content/uploads/2019/07/logoblue2.png" tvg-id="", TV Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://csprojetos.com/wp-content/uploads/2017/12/CS_MKT_TV-Sec-21C-01_Mar_2016_V03.png" tvg-id="", Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Italy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-padre-pio-tv-6268.jpg" tvg-id="", Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1774584740.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png",SANTUÁRIO DE FÁTIMA
+http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV Fatima
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8
