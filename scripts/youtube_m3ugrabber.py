@@ -24,7 +24,7 @@ def grab(url):
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u')
+            print('https://raw.githubusercontent.com/sun520999/YouTube_M3U/main/assets/404.m3u')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
