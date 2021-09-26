@@ -33,8 +33,8 @@ jobs:
       # Runs a set of commands using the runners shell 
       - name: config
         run: |
-          git config --global user.email "whoizmanoj@gmail.com"
-          git config --global user.name "manojgadde"
+          git config --global user.email "admin.zeng@gmail.com"
+          git config --global user.name "sun520999"
       
       
       - name: Main
