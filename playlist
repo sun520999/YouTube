@@ -1,0 +1,13 @@
+#EXTM3U 
+#EXTINF:-1,cr
+channels/tv1.m3u
+#EXTINF:-1,cr
+channels/tv2.m3u
+#EXTINF:-1,sports
+channels/tv3.m3u
+#EXTINF:-1,cr
+channels/tv4.m3u
+#EXTINF:-1,18+
+channels/tv5.m3u
+#EXTINF:-1,YouTube
+YouTube.m3u
