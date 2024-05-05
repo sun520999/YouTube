@@ -10,7 +10,7 @@ https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
 https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i1.ytimg.com/vi/8McTsOqeueE/hqdefault.jpg" tvg-id="", Sakshi TV
-https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714954668/ei/TM03ZpqZI-6kybgP3JmWeA/ip/172.183.51.115/id/8McTsOqeueE.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1iPmxT1tnLice_6kSaoW7GaMjJuQmBkYwfXpyBdNoP_uSQUbvQmQ5Oj/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBqqGlUYujS7uuloNu5QRmnvjdDYQ6c5fZilO4A8uvHgCIQD06WpYKvraP4X7lWSy4Gz8HCI2e02dH01C6Z9c25_mHg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/IKj_cj51_W0/maxresdefault.jpg?v=60e0a2ea" tvg-id="", ABN Telugu
 https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
@@ -58,10 +58,10 @@ https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
 https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/d0dB3kSCMmM/maxresdefault.jpg?v=60e30f87" tvg-id="", Bhakthi TV
-https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714954677/ei/Vc03ZpmLIqeplu8PwKKowAc/ip/172.183.51.115/id/d0dB3kSCMmM.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9WqHI6j0NVb38MNcA_96ytgA9eIG9Sadczl00YkSqUgpGd6oPvhwbYv/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFzYBxnlQzi7ZD93KxZfpQ0chr9inf1vrA074wTJutZkCIQCjpp9aH14-kVlHkOMLzKbm388IWXksLnHPJ6b5H_Puuw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTHZN9QLKVjv6YgQwjFXPPJm_GiHCxpCltpHF3Wqw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", SVBC
-https://cdn.jsdelivr.net/gh/sun520999/YouTube_M3U/assets/whhd.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714954678/ei/Vs03Zr_JC7O-ybgPqc60uAY/ip/172.183.51.115/id/tM5oL9aRJ7M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-wiKr2Ajra3hKmEGlrYxMlOPfQ-TYUPRnFwpqaoqx6zMyu6uyJtM3hA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO2kDhXYATGhrP5cobuEzp8lt5k_Cf8-G14ULcrb5GvTAiEA2VCYl-lRAisHt2ZGxrr425ngQ342FQ6tFLYQODd1Y8I%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://eventos.cancaonova.pt/wp-content/uploads/2019/07/logoblue2.png" tvg-id="", TV Canção Nova Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
